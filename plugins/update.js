@@ -12,7 +12,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/Nadeenpoorna-max/NADEEN-MD-V2.git'; 
+        const repoUrl = 'https://github.com/Nadeenpoorna-lkz/NADEEN-MD.git'; 
         const targetFolder = 'plugins'; 
 
 
