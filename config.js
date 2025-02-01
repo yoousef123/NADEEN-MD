@@ -15,5 +15,5 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true", //true or false
 AUTO_TYPING: process.env.AUTO_TYPING || "false", //true or false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //true or false
 AUTO_VOICE:"true" //true or false
-};
+
 };
